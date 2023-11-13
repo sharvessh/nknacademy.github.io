@@ -1,0 +1,78 @@
+              <div class="container">
+    <section id="event-part" class="pt-100 pb-10 gray-bg">
+            <h3 style="text-align: center;">For more information about events, visit our Facebook page below!</h3>
+            <br>
+            <h4 style="text-align: center;"><a href="contact-2.html">Contact us for further Inquiries & Collaboration!</a></h4> 
+            <a href="https://www.facebook.com/kalaiarasan1989"><img src="images/devices-frame-1.png" alt="Devices Frame" >
+   </section>
+   </div>            
+            
+            
+            <div class="blog-container">
+            <h2>Events & Collaboration</h2>
+            <div class="blog-box">
+                <div class="blog-img">
+                    <img src="images/blog/blog-1.jpg" alt="Blog">
+                </div>
+
+                <div class="blog-text">
+                    <span>30 September 2023/ Courses</span>
+                    <a href="https://www.facebook.com/kalaiarasan1989/posts/pfbid0pt1R96gQLw9jAq2JzVJnxB6vp6W56yJpdcmDHP4mG7BBHLS3UpHfiKcYZkBc7UCdl" class="blog-title">Kursus Asas Keusahawan</a>
+                    <p>Kursus Asas Keusahawan di Oliver Tech Academy Kulim Hi-Tech Park oleh Pusat Latihan STEM NKN Academy</p>
+                    <a href="https://www.facebook.com/kalaiarasan1989/posts/pfbid0pt1R96gQLw9jAq2JzVJnxB6vp6W56yJpdcmDHP4mG7BBHLS3UpHfiKcYZkBc7UCdl">Read more</a>
+                </div>
+            </div>
+
+
+            <div class="blog-box">
+                <div class="blog-img">
+                    <img src="images/blog/blog-2.jpg" alt="Blog">
+                </div>
+
+                <div class="blog-text">
+                    <span>29 September 2023/ Volunteer</span>
+                    <a href="https://www.facebook.com/kalaiarasan1989/posts/pfbid0CWPv4vpqBrudX3jGJCHfBnxYec21pqb7dNunP5uoUTa96zDJsAUNPvdmoUxHnxZEl" class="blog-title">PEKA B40 Mysalam Application</a>
+                    <p style="font-size: small;">Pemeriksan Kesihatan di Pusat Kebajikan Sosial KAMAKSHI, Wilayah UTARA, Paya Besar</p>
+                    <a href="https://www.facebook.com/kalaiarasan1989/posts/pfbid0CWPv4vpqBrudX3jGJCHfBnxYec21pqb7dNunP5uoUTa96zDJsAUNPvdmoUxHnxZEl">Read more</a>
+                </div>
+            </div>
+
+
+            <div class="blog-box">
+                <div class="blog-img">
+                    <img src="images/blog/blog-3.jpg" alt="Blog">
+                </div>
+
+                <div class="blog-text">
+                    <span>23 & 24 September 2023/ Collab</span>
+                    <a href="https://www.facebook.com/kalaiarasan1989/posts/pfbid02VqtjWuQm6TpRRzqxzey41UgxuJiUzX9MYhiquEBNqjaUGPWur8brUGVdvRxytiztl" class="blog-title">Kulim Central Chess Festival</a>
+                    <p>Mobile Chess Solution Shin Azwan dengan kerjasama Kulim Central Mall, MIYC PEKAN LUNAS & NKN ACADEMY</p>
+                    <a href="https://www.facebook.com/kalaiarasan1989/posts/pfbid02VqtjWuQm6TpRRzqxzey41UgxuJiUzX9MYhiquEBNqjaUGPWur8brUGVdvRxytiztl    ">Read more</a>
+                </div>
+            </div>
+
+            <div class="blog-box">
+                <div class="blog-img">
+                    <img src="images/blog/blog-3.jpg" alt="Blog">
+                </div>
+
+                <div class="blog-text">
+                    <span>23 & 24 September 2023/ Collab</span>
+                    <a href="https://www.facebook.com/kalaiarasan1989/posts/pfbid02VqtjWuQm6TpRRzqxzey41UgxuJiUzX9MYhiquEBNqjaUGPWur8brUGVdvRxytiztl" class="blog-title">Kulim Central Chess Festival</a>
+                    <p>Mobile Chess Solution Shin Azwan dengan kerjasama Kulim Central Mall, MIYC PEKAN LUNAS & NKN ACADEMY</p>
+                    <a href="https://www.facebook.com/kalaiarasan1989/posts/pfbid02VqtjWuQm6TpRRzqxzey41UgxuJiUzX9MYhiquEBNqjaUGPWur8brUGVdvRxytiztl    ">Read more</a>
+                </div>
+            </div>
+
+            <div class="blog-box">
+                <div class="blog-img">
+                    <img src="images/blog/blog-3.jpg" alt="Blog">
+                </div>
+
+                <div class="blog-text">
+                    <span>23 & 24 September 2023/ Collab</span>
+                    <a href="https://www.facebook.com/kalaiarasan1989/posts/pfbid02VqtjWuQm6TpRRzqxzey41UgxuJiUzX9MYhiquEBNqjaUGPWur8brUGVdvRxytiztl" class="blog-title">Kulim Central Chess Festival</a>
+                    <p>Mobile Chess Solution Shin Azwan dengan kerjasama Kulim Central Mall, MIYC PEKAN LUNAS & NKN ACADEMY</p>
+                    <a href="https://www.facebook.com/kalaiarasan1989/posts/pfbid02VqtjWuQm6TpRRzqxzey41UgxuJiUzX9MYhiquEBNqjaUGPWur8brUGVdvRxytiztl    ">Read more</a>
+                </div>
+            </div>
